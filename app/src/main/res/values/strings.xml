@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MovieCatalogue5</string>
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">TV Shows</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="movies">Movies</string>
+    <string name="tahun">tahun</string>
+    <string name="judul_film">Movie Title</string>
+    <string name="lorem_insum">Lorem Insum</string>
+    <string name="judul">Title</string>
+
+    <string name="api_key">fd9b2138027a0d5527e7a2870703954a</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+    <string name="language">en-US</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="year">Year</string>
+    <string name="overview">Overview</string>
+    <string name="description">Description</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="error_add">Failed Add Data</string>
+    <string name="error_clear">Failed to Delete</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty">Empty</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_setting_notification">Notification</string>
+    <string name="tv_setting_daily_reminder_notification">Daily Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_daily_reminder">Turn on/off daily reminder</string>
+    <string name="tv_setting_upcoming_reminder_notification">Upcoming Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_upcoming_reminder">Turn on/off upcoming reminder</string>
+    <string name="tv_setting_settings">Settings</string>
+    <string name="tv_setting_locale">Setting Locale</string>
+    <string name="tv_setting_change_your_phone_localization">Change your phone localization</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="release_reminder_message">has been released today!</string>
+    <string name="daily_message_reminder">Let\'s see what movies are popular today!</string>
+
+    <string name="not_found">Nothing found, try another query!</string>
+
+
+</resources>

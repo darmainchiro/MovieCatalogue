@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieCatalogue5</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Acara TV</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="tv_shows">Acara TV</string>
+    <string name="movies">Film</string>
+    <string name="tahun">tahun</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="lorem_insum">Lorem Insum</string>
+    <string name="judul">judul</string>
+
+    <string name="api_key">fd9b2138027a0d5527e7a2870703954a</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+    <string name="language">id-ID</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="year">Tahun</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorit</string>
+
+    <string name="error_add">Gagal Menambah Data</string>
+    <string name="error_clear">Gagal Menghapus</string>
+    <string name="no_data">Tidak ada data saat ini</string>
+    <string name="search">Cari</string>
+    <string name="empty">Kosong</string>
+
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="add_widget">Tambah widget</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_setting_notification">Notification</string>
+    <string name="tv_setting_daily_reminder_notification">Notifikasi Harian</string>
+    <string name="tv_setting_turn_on_off_daily_reminder">Turn on/off daily reminder</string>
+    <string name="tv_setting_upcoming_reminder_notification">Notifikasi Film Terbaru</string>
+    <string name="tv_setting_turn_on_off_upcoming_reminder">Turn on/off upcoming reminder</string>
+    <string name="tv_setting_settings">Penaturan</string>
+    <string name="tv_setting_locale">Setting Bahasa</string>
+    <string name="tv_setting_change_your_phone_localization">Change your phone localization</string>
+    <string name="reminder_settings">Pengaturan Reminder</string>
+    <string name="release_reminder_message">telah dirilis hari ini</string>
+    <string name="daily_message_reminder">Cek film yang lagi trending hari ini!</string>
+    <string name="not_found">Tidak ada hasil yang cocok, silakan coba lagi!</string>
+
+</resources>
